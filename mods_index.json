@@ -1,5 +1,5 @@
 {
-  clientside_mods: ["https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"],
-  serverside_mods: []
+  "clientside_mods": ["https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"],
+  "serverside_mods": []
 }
     
