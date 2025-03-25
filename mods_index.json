@@ -2,9 +2,11 @@
   "clientside_mods": [
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/advancementinfo-1.20-fabric0.83.0-1.4.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+    "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/amarite-1.5-1.0.8.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/AmbientSounds_FABRIC_v6.1.4_mc1.20.1.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/AntiGhost.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/architectury-9.2.14-fabric.jar",
+    "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/arsenal-0.1.5-1.20.1.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/artifacts-fabric-9.5.14.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/athena-fabric-1.20.1-3.1.2.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/AttributeFix-Fabric-1.20.1-21.0.4.jar",
@@ -121,7 +123,9 @@
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/clientside_mods/Zoomify-2.14.2+1.20.1.jar"
   ],
   "serverside_mods": [
+    "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/serverside_mods/amarite-1.5-1.0.8.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/serverside_mods/architectury-9.2.14-fabric.jar",
+    "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/serverside_mods/arsenal-0.1.5-1.20.1.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/serverside_mods/artifacts-fabric-9.5.14.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/serverside_mods/athena-fabric-1.20.1-3.1.2.jar",
     "https://github.com/MindOfEmi/Modded-Client/raw/refs/heads/main/serverside_mods/AttributeFix-Fabric-1.20.1-21.0.4.jar",
